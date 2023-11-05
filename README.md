@@ -1,4 +1,4 @@
-# rhino-anywhere-frontend
+# sample frontend
 ---
 
 ## About the Project
@@ -8,6 +8,8 @@ You can
 - Reskin Rhino in any way!
 - Control Rhino in any way!
 - Interact with Rhino in any way!
+
+This sample frontend is a sample project showing how to interface with the Rhino Anywhere server and js-sdk.
 
 ## How to Build & Pre-requisites
 [Please see building source guide](BUILDSOURCE.md)
