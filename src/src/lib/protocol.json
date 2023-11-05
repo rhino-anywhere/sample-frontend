@@ -1,0 +1,18 @@
+[{
+  "type":"command",
+  "data": {
+    "command":"move"
+  }
+},
+{
+  "type":"input",
+  "data": {
+    "method": "mouse|touch|keyboard",
+    "action": "up|down|move",
+    "x": "1",
+    "y": "2",
+    "deltax": "10",
+    "deltay": "0",
+    "value": "a"
+  }
+}]

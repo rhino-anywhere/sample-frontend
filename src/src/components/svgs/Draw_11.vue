@@ -1,0 +1,3 @@
+<template>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g id="Layer_2" data-name="Layer 2"><circle cx="32" cy="32" r="31" fill="#242424" stroke="#fff" stroke-miterlimit="10"/></g><g id="Layer_1" data-name="Layer 1"><rect x="10.01" y="29.56" width="23.44" height="10.54" fill="#fff" stroke="#fff" stroke-miterlimit="10"/><rect x="38.36" y="34.04" width="10.55" height="18.75" transform="translate(-17.92 43.6) rotate(-45.03)" fill="none" stroke="#fff" stroke-miterlimit="10"/><polygon points="32.86 10.22 32.86 40.11 46.92 10.22 32.86 10.22" fill="#353535" stroke="#fff" stroke-miterlimit="10" fill-rule="evenodd"/></g></svg>
+</template>

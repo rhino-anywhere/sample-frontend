@@ -1,0 +1,3 @@
+<template>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><g id="Layer_2" data-name="Layer 2"><circle cx="32" cy="32" r="31" fill="#242424" stroke="#fff" stroke-miterlimit="10"/></g><g id="Layer_1" data-name="Layer 1"><rect x="11.51" y="18.64" width="40.97" height="26.71" fill="none" stroke="#fff" stroke-miterlimit="10"/><rect x="9.74" y="41.8" width="5.34" height="5.34" fill="#fff" stroke="#fff" stroke-miterlimit="10"/><rect x="48.92" y="16.86" width="5.34" height="5.34" fill="#fff" stroke="#fff" stroke-miterlimit="10"/></g></svg>
+</template>

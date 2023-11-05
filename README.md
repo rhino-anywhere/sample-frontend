@@ -15,7 +15,7 @@ This sample frontend is a sample project showing how to interface with the Rhino
 [Please see building source guide](BUILDSOURCE.md)
 
 ## Running
-... TBC ...
+Once it's running, visit the link displayed in the commandline and connect to your RhinoAnywhere plugin running in Rhino
 
 ## Contributing
 
